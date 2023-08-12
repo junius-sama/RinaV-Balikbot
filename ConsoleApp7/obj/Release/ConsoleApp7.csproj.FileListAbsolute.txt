@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ConsoleApp7\ConsoleApp7\bin\Release\ConsoleApp7.exe
+C:\Users\User\Desktop\ConsoleApp7\ConsoleApp7\bin\Release\ConsoleApp7.pdb
+C:\Users\User\Desktop\ConsoleApp7\ConsoleApp7\bin\Release\CSCore.dll
+C:\Users\User\Desktop\ConsoleApp7\ConsoleApp7\bin\Release\CSCore.xml
+C:\Users\User\Desktop\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.csproj.CopyComplete
+C:\Users\User\Desktop\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.exe
+C:\Users\User\Desktop\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.pdb
+C:\Users\User\Desktop\ConsoleApp7\ConsoleApp7\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ConsoleApp7\ConsoleApp7\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\Desktop\ConsoleApp7\ConsoleApp7\bin\Release\ConsoleApp7.exe.config
+C:\Users\User\Desktop\ConsoleApp7\ConsoleApp7\obj\Release\Interop.AutoItX3Lib.dll
+C:\Users\User\Desktop\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.csproj.ResolveComReference.cache
